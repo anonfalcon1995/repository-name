@@ -1,0 +1,11 @@
+
+== Passo 2.1.1 DNS: Secundário. ==
+
+#Inicio Arquivo nsd.conf
+cat: /etc/nsd.conf: No such file or directory
+#Fim Arquivo nsd.conf
+
+#Inicio Arquivo unbound.conf
+cat: /etc/unbound.conf: No such file or directory
+#Fim Arquivo unbound.conf
+
